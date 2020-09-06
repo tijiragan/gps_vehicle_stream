@@ -1,2 +1,11 @@
-*.class
-*.log
+-*.class
+-*.log
+node_modules/*
+.vs-code/*
+dist/
+./**/*.test.ts
+./**/*.spec.js
+e2e/
+.idea/*
+project/
+target/
